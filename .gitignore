@@ -1,0 +1,6 @@
+dataset/dev/dev_splits_complete/
+dataset/test/output_repeated_splits_test/
+dataset/train/train_splits/
+deployment/model/model.pth
+training/runs/
+.venv/
