@@ -1,0 +1,384 @@
+2025-08-31 23:30:10,604 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-08-31 23:31:40,979 - WARNING -  * Debugger is active!
+2025-08-31 23:31:41,013 - INFO -  * Debugger PIN: 925-012-930
+2025-08-31 23:33:07,930 - INFO - Processing video: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-08-31 23:33:25,465 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-08-31 23:33:25,474 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-08-31 23:33:30,105 - INFO - Analysis complete for: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-08-31 23:33:30,154 - INFO - 127.0.0.1 - - [31/Aug/2025 23:33:30] "POST /analyze HTTP/1.1" 200 -
+2025-08-31 23:34:16,406 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\ml_backend.py', reloading
+2025-08-31 23:34:16,408 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\ml_backend.py', reloading
+2025-08-31 23:34:35,347 - WARNING -  * Debugger is active!
+2025-08-31 23:34:35,350 - INFO -  * Debugger PIN: 925-012-930
+2025-08-31 23:34:55,729 - INFO - Processing video: 927_0160_01.MP4 (ID: 0cfc5984)
+2025-08-31 23:35:12,807 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-08-31 23:35:12,828 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-08-31 23:35:15,092 - INFO - Analysis complete for: 927_0160_01.MP4 (ID: 0cfc5984)
+2025-08-31 23:35:15,126 - INFO - 127.0.0.1 - - [31/Aug/2025 23:35:15] "POST /analyze HTTP/1.1" 200 -
+2025-08-31 23:37:13,793 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\ml_backend_enhanced.py', reloading
+2025-08-31 23:37:30,897 - WARNING -  * Debugger is active!
+2025-08-31 23:37:30,900 - INFO -  * Debugger PIN: 925-012-930
+2025-08-31 23:37:36,213 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\ml_backend_enhanced.py', reloading
+2025-08-31 23:37:36,213 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\ml_backend_enhanced.py', reloading
+2025-08-31 23:37:49,904 - WARNING -  * Debugger is active!
+2025-08-31 23:37:49,912 - INFO -  * Debugger PIN: 925-012-930
+2025-08-31 23:37:50,678 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\ml_backend_enhanced.py', reloading
+2025-08-31 23:37:50,678 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\ml_backend_enhanced.py', reloading
+2025-08-31 23:37:50,678 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\ml_backend_enhanced.py', reloading
+2025-08-31 23:38:03,365 - WARNING -  * Debugger is active!
+2025-08-31 23:38:03,368 - INFO -  * Debugger PIN: 925-012-930
+2025-08-31 23:38:12,301 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\ml_backend_enhanced.py', reloading
+2025-08-31 23:38:12,308 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\ml_backend_enhanced.py', reloading
+2025-08-31 23:38:25,244 - WARNING -  * Debugger is active!
+2025-08-31 23:38:25,248 - INFO -  * Debugger PIN: 925-012-930
+2025-08-31 23:39:14,674 - INFO - Processing video: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-08-31 23:39:22,508 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-08-31 23:39:22,508 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-08-31 23:39:24,304 - INFO - Analysis complete for: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-08-31 23:39:24,310 - INFO - 127.0.0.1 - - [31/Aug/2025 23:39:24] "POST /analyze HTTP/1.1" 200 -
+2025-08-31 23:40:17,292 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-08-31 23:40:17,296 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-31 23:40:17,317 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-31 23:40:26,548 - WARNING -  * Debugger is active!
+2025-08-31 23:40:26,561 - INFO -  * Debugger PIN: 925-012-930
+2025-08-31 23:41:09,862 - INFO - Processing video: 3189291-hd_1080_1920_25fps.mp4 (ID: d79dca21)
+2025-08-31 23:41:10,858 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-08-31 23:41:10,879 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-08-31 23:41:12,812 - INFO - Analysis complete for: 3189291-hd_1080_1920_25fps.mp4 (ID: d79dca21)
+2025-08-31 23:41:12,827 - INFO - 127.0.0.1 - - [31/Aug/2025 23:41:12] "POST /analyze HTTP/1.1" 200 -
+2025-08-31 23:41:29,870 - INFO - Processing video: 927_0160_01.MP4 (ID: 0cfc5984)
+2025-08-31 23:41:36,606 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-08-31 23:41:36,606 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-08-31 23:41:36,994 - INFO - Analysis complete for: 927_0160_01.MP4 (ID: 0cfc5984)
+2025-08-31 23:41:37,030 - INFO - 127.0.0.1 - - [31/Aug/2025 23:41:37] "POST /analyze HTTP/1.1" 200 -
+2025-08-31 23:42:17,923 - INFO - Processing video: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-08-31 23:42:20,962 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-08-31 23:42:20,969 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-08-31 23:42:21,316 - INFO - Analysis complete for: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-08-31 23:42:21,316 - INFO - 127.0.0.1 - - [31/Aug/2025 23:42:21] "POST /analyze HTTP/1.1" 200 -
+2025-08-31 23:43:03,614 - INFO - Processing video: 3189290-hd_1080_1920_25fps.mp4 (ID: 53b9977a)
+2025-08-31 23:43:06,360 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-08-31 23:43:06,367 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-08-31 23:43:06,721 - INFO - Analysis complete for: 3189290-hd_1080_1920_25fps.mp4 (ID: 53b9977a)
+2025-08-31 23:43:06,721 - INFO - 127.0.0.1 - - [31/Aug/2025 23:43:06] "POST /analyze HTTP/1.1" 200 -
+2025-08-31 23:51:58,151 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-08-31 23:51:58,152 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-31 23:51:58,228 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-31 23:52:08,225 - WARNING -  * Debugger is active!
+2025-08-31 23:52:08,237 - INFO -  * Debugger PIN: 925-012-930
+2025-09-01 00:05:33,066 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\ml_backend.py', reloading
+2025-09-01 00:05:33,088 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\ml_backend.py', reloading
+2025-09-01 00:05:33,590 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\__init__.py', reloading
+2025-09-01 00:05:33,617 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\utf_8.py', reloading
+2025-09-01 00:05:33,618 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\cp1252.py', reloading
+2025-09-01 00:05:33,620 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\__init__.py', reloading
+2025-09-01 00:05:33,622 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\utf_8.py', reloading
+2025-09-01 00:05:33,636 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\cp1252.py', reloading
+2025-09-01 01:01:27,011 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.119.254:5000
+2025-09-01 01:01:27,011 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-01 01:01:27,176 - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 01:01:43,469 - WARNING -  * Debugger is active!
+2025-09-01 01:01:43,483 - INFO -  * Debugger PIN: 925-012-930
+2025-09-01 01:05:38,825 - INFO - Processing video: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-09-01 01:05:50,626 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-09-01 01:05:50,633 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-09-01 01:05:52,752 - INFO - Analysis complete for: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-09-01 01:05:52,790 - INFO - 127.0.0.1 - - [01/Sep/2025 01:05:52] "POST /analyze HTTP/1.1" 200 -
+2025-09-01 01:06:23,676 - INFO - 127.0.0.1 - - [01/Sep/2025 01:06:23] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:06:23,914 - INFO - 127.0.0.1 - - [01/Sep/2025 01:06:23] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:06:33,357 - INFO - 127.0.0.1 - - [01/Sep/2025 01:06:33] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:06:42,269 - INFO - 127.0.0.1 - - [01/Sep/2025 01:06:42] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:06:42,526 - INFO - 127.0.0.1 - - [01/Sep/2025 01:06:42] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:06:55,445 - INFO - Processing video: 927_0196_01.MP4 (ID: 955d793d)
+2025-09-01 01:07:05,775 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-09-01 01:07:05,778 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-09-01 01:07:06,242 - INFO - Analysis complete for: 927_0196_01.MP4 (ID: 955d793d)
+2025-09-01 01:07:06,266 - INFO - 127.0.0.1 - - [01/Sep/2025 01:07:06] "POST /analyze HTTP/1.1" 200 -
+2025-09-01 01:07:43,916 - INFO - Processing video: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-09-01 01:07:52,142 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-09-01 01:07:52,152 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-09-01 01:07:52,583 - INFO - Analysis complete for: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-09-01 01:07:52,583 - INFO - 127.0.0.1 - - [01/Sep/2025 01:07:52] "POST /analyze HTTP/1.1" 200 -
+2025-09-01 01:08:25,644 - INFO - Processing video: 3189291-hd_1080_1920_25fps.mp4 (ID: d79dca21)
+2025-09-01 01:08:28,292 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-09-01 01:08:28,308 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-09-01 01:08:28,688 - INFO - Analysis complete for: 3189291-hd_1080_1920_25fps.mp4 (ID: d79dca21)
+2025-09-01 01:08:28,692 - INFO - 127.0.0.1 - - [01/Sep/2025 01:08:28] "POST /analyze HTTP/1.1" 200 -
+2025-09-01 01:08:44,701 - INFO - 127.0.0.1 - - [01/Sep/2025 01:08:44] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:08:44,948 - INFO - 127.0.0.1 - - [01/Sep/2025 01:08:44] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:08:54,371 - INFO - 127.0.0.1 - - [01/Sep/2025 01:08:54] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:09:04,892 - INFO - 127.0.0.1 - - [01/Sep/2025 01:09:04] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:09:14,875 - INFO - 127.0.0.1 - - [01/Sep/2025 01:09:14] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:09:24,903 - INFO - 127.0.0.1 - - [01/Sep/2025 01:09:24] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:09:34,555 - INFO - 127.0.0.1 - - [01/Sep/2025 01:09:34] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:09:44,865 - INFO - 127.0.0.1 - - [01/Sep/2025 01:09:44] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:09:54,966 - INFO - 127.0.0.1 - - [01/Sep/2025 01:09:54] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:10:04,898 - INFO - 127.0.0.1 - - [01/Sep/2025 01:10:04] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:10:14,874 - INFO - 127.0.0.1 - - [01/Sep/2025 01:10:14] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:10:24,883 - INFO - 127.0.0.1 - - [01/Sep/2025 01:10:24] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:11:11,876 - INFO - 127.0.0.1 - - [01/Sep/2025 01:11:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:12:11,879 - INFO - 127.0.0.1 - - [01/Sep/2025 01:12:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:13:11,875 - INFO - 127.0.0.1 - - [01/Sep/2025 01:13:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:14:11,883 - INFO - 127.0.0.1 - - [01/Sep/2025 01:14:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:15:11,555 - INFO - 127.0.0.1 - - [01/Sep/2025 01:15:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:16:11,883 - INFO - 127.0.0.1 - - [01/Sep/2025 01:16:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:16:13,548 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\deployment\\deploy_endpoint.py', reloading
+2025-09-01 01:16:13,548 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\deployment\\inference.py', reloading
+2025-09-01 01:16:13,548 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\deployment\\models.py', reloading
+2025-09-01 01:16:13,565 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\train_sagemaker.py', reloading
+2025-09-01 01:16:13,566 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\training\\count_parameters.py', reloading
+2025-09-01 01:16:13,567 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\training\\install_ffmpeg.py', reloading
+2025-09-01 01:16:13,568 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\training\\meld_dataset.py', reloading
+2025-09-01 01:16:13,568 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\training\\models.py', reloading
+2025-09-01 01:16:13,569 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\training\\test_logging.py', reloading
+2025-09-01 01:16:13,569 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\training\\train.py', reloading
+2025-09-01 01:16:16,536 - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 01:16:28,071 - WARNING -  * Debugger is active!
+2025-09-01 01:16:28,074 - INFO -  * Debugger PIN: 925-012-930
+2025-09-01 01:17:10,973 - INFO - 127.0.0.1 - - [01/Sep/2025 01:17:10] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:17:14,896 - INFO - 127.0.0.1 - - [01/Sep/2025 01:17:14] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:17:24,861 - INFO - 127.0.0.1 - - [01/Sep/2025 01:17:24] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:17:34,576 - INFO - 127.0.0.1 - - [01/Sep/2025 01:17:34] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:17:44,883 - INFO - 127.0.0.1 - - [01/Sep/2025 01:17:44] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:17:54,575 - INFO - 127.0.0.1 - - [01/Sep/2025 01:17:54] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:18:04,901 - INFO - 127.0.0.1 - - [01/Sep/2025 01:18:04] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:19:11,873 - INFO - 127.0.0.1 - - [01/Sep/2025 01:19:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:20:11,561 - INFO - 127.0.0.1 - - [01/Sep/2025 01:20:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:21:11,885 - INFO - 127.0.0.1 - - [01/Sep/2025 01:21:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:22:11,902 - INFO - 127.0.0.1 - - [01/Sep/2025 01:22:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:23:11,583 - INFO - 127.0.0.1 - - [01/Sep/2025 01:23:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:24:11,872 - INFO - 127.0.0.1 - - [01/Sep/2025 01:24:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:25:11,889 - INFO - 127.0.0.1 - - [01/Sep/2025 01:25:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:26:11,886 - INFO - 127.0.0.1 - - [01/Sep/2025 01:26:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:27:11,877 - INFO - 127.0.0.1 - - [01/Sep/2025 01:27:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:28:11,582 - INFO - 127.0.0.1 - - [01/Sep/2025 01:28:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:28:53,079 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\ml_backend.py', reloading
+2025-09-01 01:28:56,364 - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 01:29:09,462 - WARNING -  * Debugger is active!
+2025-09-01 01:29:09,466 - INFO -  * Debugger PIN: 925-012-930
+2025-09-01 01:29:11,905 - INFO - 127.0.0.1 - - [01/Sep/2025 01:29:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:30:11,888 - INFO - 127.0.0.1 - - [01/Sep/2025 01:30:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:31:11,874 - INFO - 127.0.0.1 - - [01/Sep/2025 01:31:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:32:11,890 - INFO - 127.0.0.1 - - [01/Sep/2025 01:32:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:33:11,887 - INFO - 127.0.0.1 - - [01/Sep/2025 01:33:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:34:11,867 - INFO - 127.0.0.1 - - [01/Sep/2025 01:34:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:35:11,876 - INFO - 127.0.0.1 - - [01/Sep/2025 01:35:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:36:11,879 - INFO - 127.0.0.1 - - [01/Sep/2025 01:36:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:37:11,877 - INFO - 127.0.0.1 - - [01/Sep/2025 01:37:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:38:11,880 - INFO - 127.0.0.1 - - [01/Sep/2025 01:38:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:39:11,881 - INFO - 127.0.0.1 - - [01/Sep/2025 01:39:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:40:11,873 - INFO - 127.0.0.1 - - [01/Sep/2025 01:40:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:41:11,876 - INFO - 127.0.0.1 - - [01/Sep/2025 01:41:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:42:11,895 - INFO - 127.0.0.1 - - [01/Sep/2025 01:42:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:43:11,859 - INFO - 127.0.0.1 - - [01/Sep/2025 01:43:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:43:41,808 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\utf_8.py', reloading
+2025-09-01 01:43:41,850 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\utf_8.py', reloading
+2025-09-01 01:43:46,641 - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 01:43:58,697 - WARNING -  * Debugger is active!
+2025-09-01 01:43:58,713 - INFO -  * Debugger PIN: 925-012-930
+2025-09-01 01:44:11,943 - INFO - 127.0.0.1 - - [01/Sep/2025 01:44:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:45:11,927 - INFO - 127.0.0.1 - - [01/Sep/2025 01:45:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:46:11,876 - INFO - 127.0.0.1 - - [01/Sep/2025 01:46:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:47:11,882 - INFO - 127.0.0.1 - - [01/Sep/2025 01:47:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:47:14,144 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\json\\__init__.py', reloading
+2025-09-01 01:47:16,517 - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 01:47:26,934 - WARNING -  * Debugger is active!
+2025-09-01 01:47:26,942 - INFO -  * Debugger PIN: 925-012-930
+2025-09-01 01:47:26,945 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.119.254:5000
+2025-09-01 01:47:26,946 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-01 01:47:26,966 - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 01:47:38,189 - WARNING -  * Debugger is active!
+2025-09-01 01:47:38,193 - INFO -  * Debugger PIN: 925-012-930
+2025-09-01 01:48:11,878 - INFO - 127.0.0.1 - - [01/Sep/2025 01:48:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:49:11,887 - INFO - 127.0.0.1 - - [01/Sep/2025 01:49:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 01:50:11,932 - INFO - 127.0.0.1 - - [01/Sep/2025 01:50:11] "GET /logs HTTP/1.1" 200 -
+2025-09-01 09:15:40,976 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.238.196:5000
+2025-09-01 09:15:41,015 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-01 09:15:41,175 - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 09:16:01,670 - WARNING -  * Debugger is active!
+2025-09-01 09:16:01,689 - INFO -  * Debugger PIN: 925-012-930
+2025-09-01 09:16:51,951 - INFO - Processing video: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-09-01 09:16:59,604 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-09-01 09:16:59,604 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-09-01 09:17:01,660 - INFO - Analysis complete for: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-09-01 09:17:01,664 - INFO - 127.0.0.1 - - [01/Sep/2025 09:17:01] "POST /analyze HTTP/1.1" 200 -
+2025-09-01 09:17:20,707 - INFO - 127.0.0.1 - - [01/Sep/2025 09:17:20] "GET /logs HTTP/1.1" 200 -
+2025-09-01 09:17:20,956 - INFO - 127.0.0.1 - - [01/Sep/2025 09:17:20] "GET /logs HTTP/1.1" 200 -
+2025-09-01 09:17:45,595 - INFO - Processing video: 927_0196_01.MP4 (ID: 955d793d)
+2025-09-01 09:17:55,594 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-09-01 09:17:55,602 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-09-01 09:17:55,942 - INFO - Analysis complete for: 927_0196_01.MP4 (ID: 955d793d)
+2025-09-01 09:17:55,942 - INFO - 127.0.0.1 - - [01/Sep/2025 09:17:55] "POST /analyze HTTP/1.1" 200 -
+2025-09-01 09:19:58,994 - INFO - Processing video: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-09-01 09:20:06,744 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-09-01 09:20:06,744 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-09-01 09:20:07,078 - INFO - Analysis complete for: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-09-01 09:20:07,078 - INFO - 127.0.0.1 - - [01/Sep/2025 09:20:07] "POST /analyze HTTP/1.1" 200 -
+2025-09-01 09:21:13,442 - INFO - 127.0.0.1 - - [01/Sep/2025 09:21:13] "GET /logs HTTP/1.1" 200 -
+2025-09-01 09:21:13,690 - INFO - 127.0.0.1 - - [01/Sep/2025 09:21:13] "GET /logs HTTP/1.1" 200 -
+2025-09-01 09:21:23,134 - INFO - 127.0.0.1 - - [01/Sep/2025 09:21:23] "GET /logs HTTP/1.1" 200 -
+2025-09-01 09:21:50,414 - INFO - Processing video: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-09-01 09:21:57,806 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-09-01 09:21:57,822 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-09-01 09:21:58,140 - INFO - Analysis complete for: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-09-01 09:21:58,140 - INFO - 127.0.0.1 - - [01/Sep/2025 09:21:58] "POST /analyze HTTP/1.1" 200 -
+2025-09-01 10:56:48,735 - INFO - Processing video: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-09-01 10:56:56,244 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-09-01 10:56:56,244 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-09-01 10:56:56,642 - INFO - Analysis complete for: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-09-01 10:56:56,647 - INFO - 127.0.0.1 - - [01/Sep/2025 10:56:56] "POST /analyze HTTP/1.1" 200 -
+2025-09-01 10:58:48,332 - INFO - 127.0.0.1 - - [01/Sep/2025 10:58:48] "GET /logs HTTP/1.1" 200 -
+2025-09-01 10:58:48,585 - INFO - 127.0.0.1 - - [01/Sep/2025 10:58:48] "GET /logs HTTP/1.1" 200 -
+2025-09-01 10:58:58,040 - INFO - 127.0.0.1 - - [01/Sep/2025 10:58:58] "GET /logs HTTP/1.1" 200 -
+2025-09-01 10:59:08,336 - INFO - 127.0.0.1 - - [01/Sep/2025 10:59:08] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:06:11,014 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\deployment\\deploy_endpoint.py', reloading
+2025-09-01 11:06:11,014 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\deployment\\inference.py', reloading
+2025-09-01 11:06:11,014 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\deployment\\models.py', reloading
+2025-09-01 11:06:11,042 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\train_sagemaker.py', reloading
+2025-09-01 11:06:11,042 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\training\\count_parameters.py', reloading
+2025-09-01 11:06:11,042 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\training\\install_ffmpeg.py', reloading
+2025-09-01 11:06:11,048 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\training\\meld_dataset.py', reloading
+2025-09-01 11:06:11,048 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\training\\models.py', reloading
+2025-09-01 11:06:11,049 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\training\\test_logging.py', reloading
+2025-09-01 11:06:11,050 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\training\\train.py', reloading
+2025-09-01 11:06:13,858 - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 11:06:26,873 - WARNING -  * Debugger is active!
+2025-09-01 11:06:26,879 - INFO -  * Debugger PIN: 925-012-930
+2025-09-01 11:11:53,340 - INFO - Processing video: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-09-01 11:12:01,018 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-09-01 11:12:01,023 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-09-01 11:12:02,646 - INFO - Analysis complete for: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-09-01 11:12:02,650 - INFO - 127.0.0.1 - - [01/Sep/2025 11:12:02] "POST /analyze HTTP/1.1" 200 -
+2025-09-01 11:13:27,830 - INFO - 127.0.0.1 - - [01/Sep/2025 11:13:27] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:13:28,065 - INFO - 127.0.0.1 - - [01/Sep/2025 11:13:28] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:13:37,483 - INFO - 127.0.0.1 - - [01/Sep/2025 11:13:37] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:13:47,805 - INFO - 127.0.0.1 - - [01/Sep/2025 11:13:47] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:13:57,487 - INFO - 127.0.0.1 - - [01/Sep/2025 11:13:57] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:14:07,806 - INFO - 127.0.0.1 - - [01/Sep/2025 11:14:07] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:14:17,489 - INFO - 127.0.0.1 - - [01/Sep/2025 11:14:17] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:14:27,809 - INFO - 127.0.0.1 - - [01/Sep/2025 11:14:27] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:14:38,475 - INFO - 127.0.0.1 - - [01/Sep/2025 11:14:38] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:14:48,769 - INFO - 127.0.0.1 - - [01/Sep/2025 11:14:48] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:14:58,462 - INFO - 127.0.0.1 - - [01/Sep/2025 11:14:58] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:15:08,764 - INFO - 127.0.0.1 - - [01/Sep/2025 11:15:08] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:15:17,508 - INFO - 127.0.0.1 - - [01/Sep/2025 11:15:17] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:15:27,028 - INFO - Processing video: 3189290-hd_1080_1920_25fps.mp4 (ID: 53b9977a)
+2025-09-01 11:15:34,288 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-09-01 11:15:34,288 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-09-01 11:15:34,642 - INFO - Analysis complete for: 3189290-hd_1080_1920_25fps.mp4 (ID: 53b9977a)
+2025-09-01 11:15:34,646 - INFO - 127.0.0.1 - - [01/Sep/2025 11:15:34] "POST /analyze HTTP/1.1" 200 -
+2025-09-01 11:17:10,245 - INFO - 127.0.0.1 - - [01/Sep/2025 11:17:10] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:17:10,497 - INFO - 127.0.0.1 - - [01/Sep/2025 11:17:10] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:17:19,940 - INFO - 127.0.0.1 - - [01/Sep/2025 11:17:19] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:17:30,240 - INFO - 127.0.0.1 - - [01/Sep/2025 11:17:30] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:17:39,939 - INFO - 127.0.0.1 - - [01/Sep/2025 11:17:39] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:17:50,235 - INFO - 127.0.0.1 - - [01/Sep/2025 11:17:50] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:17:59,943 - INFO - 127.0.0.1 - - [01/Sep/2025 11:17:59] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:18:10,250 - INFO - 127.0.0.1 - - [01/Sep/2025 11:18:10] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:18:19,943 - INFO - 127.0.0.1 - - [01/Sep/2025 11:18:19] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:18:30,239 - INFO - 127.0.0.1 - - [01/Sep/2025 11:18:30] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:18:39,947 - INFO - 127.0.0.1 - - [01/Sep/2025 11:18:39] "GET /logs HTTP/1.1" 200 -
+2025-09-01 11:18:50,240 - INFO - 127.0.0.1 - - [01/Sep/2025 11:18:50] "GET /logs HTTP/1.1" 200 -
+2025-09-01 21:36:17,585 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.56.134:5000
+2025-09-01 21:36:17,587 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-01 21:36:17,782 - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 21:36:31,921 - WARNING -  * Debugger is active!
+2025-09-01 21:36:31,926 - INFO -  * Debugger PIN: 925-012-930
+2025-09-01 21:37:38,913 - INFO - Processing video: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-09-01 21:37:52,340 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-09-01 21:37:52,351 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-09-01 21:37:54,967 - INFO - Analysis complete for: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-09-01 21:37:54,969 - INFO - 127.0.0.1 - - [01/Sep/2025 21:37:54] "POST /analyze HTTP/1.1" 200 -
+2025-09-01 21:52:46,165 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\base64mime.py', reloading
+2025-09-01 21:52:46,172 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\encoders.py', reloading
+2025-09-01 21:52:46,172 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\_encoded_words.py', reloading
+2025-09-01 21:52:46,173 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\quoprimime.py', reloading
+2025-09-01 21:52:46,173 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_text.py', reloading
+2025-09-01 21:52:46,174 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\iterators.py', reloading
+2025-09-01 21:52:46,174 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_itertools.py', reloading
+2025-09-01 21:52:46,175 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_functools.py', reloading
+2025-09-01 21:52:46,176 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\base64mime.py', reloading
+2025-09-01 21:52:46,176 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\encoders.py', reloading
+2025-09-01 21:52:46,179 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\_encoded_words.py', reloading
+2025-09-01 21:52:46,179 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\quoprimime.py', reloading
+2025-09-01 21:52:46,180 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\iterators.py', reloading
+2025-09-01 21:52:46,180 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_text.py', reloading
+2025-09-01 21:52:46,180 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_functools.py', reloading
+2025-09-01 21:52:46,181 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_itertools.py', reloading
+2025-09-01 21:52:49,181 - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 21:53:03,667 - WARNING -  * Debugger is active!
+2025-09-01 21:53:03,667 - INFO -  * Debugger PIN: 925-012-930
+2025-09-01 21:53:22,675 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\raw_unicode_escape.py', reloading
+2025-09-01 21:53:22,675 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\raw_unicode_escape.py', reloading
+2025-09-01 21:53:22,691 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\unicode_escape.py', reloading
+2025-09-01 21:53:22,691 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\unicode_escape.py', reloading
+2025-09-01 21:53:23,819 - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 21:53:35,910 - WARNING -  * Debugger is active!
+2025-09-01 21:53:35,915 - INFO -  * Debugger PIN: 925-012-930
+2025-09-01 21:58:29,017 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.56.134:5000
+2025-09-01 21:58:29,017 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-01 21:58:29,017 - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 21:58:39,966 - WARNING -  * Debugger is active!
+2025-09-01 21:58:39,970 - INFO -  * Debugger PIN: 925-012-930
+2025-09-01 22:00:18,906 - INFO - Processing video: 3189290-hd_1080_1920_25fps.mp4 (ID: 53b9977a)
+2025-09-01 22:00:27,354 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-09-01 22:00:27,365 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-09-01 22:00:29,971 - INFO - Analysis complete for: 3189290-hd_1080_1920_25fps.mp4 (ID: 53b9977a)
+2025-09-01 22:00:30,033 - INFO - 127.0.0.1 - - [01/Sep/2025 22:00:30] "POST /analyze HTTP/1.1" 200 -
+2025-09-01 22:01:14,130 - INFO - 127.0.0.1 - - [01/Sep/2025 22:01:14] "GET /logs HTTP/1.1" 200 -
+2025-09-01 22:01:14,375 - INFO - 127.0.0.1 - - [01/Sep/2025 22:01:14] "GET /logs HTTP/1.1" 200 -
+2025-09-01 22:01:24,102 - INFO - 127.0.0.1 - - [01/Sep/2025 22:01:24] "GET /logs HTTP/1.1" 200 -
+2025-09-01 22:01:34,118 - INFO - 127.0.0.1 - - [01/Sep/2025 22:01:34] "GET /logs HTTP/1.1" 200 -
+2025-09-01 22:01:44,112 - INFO - 127.0.0.1 - - [01/Sep/2025 22:01:44] "GET /logs HTTP/1.1" 200 -
+2025-09-01 22:01:54,123 - INFO - 127.0.0.1 - - [01/Sep/2025 22:01:54] "GET /logs HTTP/1.1" 200 -
+2025-09-01 22:02:04,117 - INFO - 127.0.0.1 - - [01/Sep/2025 22:02:04] "GET /logs HTTP/1.1" 200 -
+2025-09-01 22:02:13,808 - INFO - 127.0.0.1 - - [01/Sep/2025 22:02:13] "GET /logs HTTP/1.1" 200 -
+2025-09-01 22:02:53,228 - INFO - 127.0.0.1 - - [01/Sep/2025 22:02:53] "GET /logs HTTP/1.1" 200 -
+2025-09-01 22:02:53,491 - INFO - 127.0.0.1 - - [01/Sep/2025 22:02:53] "GET /logs HTTP/1.1" 200 -
+2025-09-01 22:14:45,003 - INFO - 127.0.0.1 - - [01/Sep/2025 22:14:45] "GET /logs HTTP/1.1" 200 -
+2025-09-01 22:14:45,137 - INFO - 127.0.0.1 - - [01/Sep/2025 22:14:45] "GET /logs HTTP/1.1" 200 -
+2025-09-01 22:34:09,466 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\deployment\\deploy_endpoint.py', reloading
+2025-09-01 22:34:09,480 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\deployment\\inference.py', reloading
+2025-09-01 22:34:09,484 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\deployment\\models.py', reloading
+2025-09-01 22:34:09,494 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\train_sagemaker.py', reloading
+2025-09-01 22:34:09,498 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\training\\count_parameters.py', reloading
+2025-09-01 22:34:09,502 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\training\\install_ffmpeg.py', reloading
+2025-09-01 22:34:09,504 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\training\\meld_dataset.py', reloading
+2025-09-01 22:34:09,504 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\training\\models.py', reloading
+2025-09-01 22:34:09,507 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\training\\test_logging.py', reloading
+2025-09-01 22:34:09,507 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\Video-Sentiment-Analyzer\\training\\train.py', reloading
+2025-09-01 22:34:12,504 - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 22:36:28,484 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.56.134:5000
+2025-09-01 22:36:28,485 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-01 22:36:28,499 - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 22:36:38,399 - WARNING -  * Debugger is active!
+2025-09-01 22:36:38,404 - INFO -  * Debugger PIN: 925-012-930
+2025-09-01 22:39:52,721 - INFO - Processing video: 3189291-hd_1080_1920_25fps.mp4 (ID: d79dca21)
+2025-09-01 22:39:55,219 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-09-01 22:39:55,235 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-09-01 22:39:57,032 - INFO - Analysis complete for: 3189291-hd_1080_1920_25fps.mp4 (ID: d79dca21)
+2025-09-01 22:39:57,040 - INFO - 127.0.0.1 - - [01/Sep/2025 22:39:57] "POST /analyze HTTP/1.1" 200 -
