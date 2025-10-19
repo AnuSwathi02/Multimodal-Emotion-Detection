@@ -382,3 +382,150 @@
 2025-09-01 22:39:55,235 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
 2025-09-01 22:39:57,032 - INFO - Analysis complete for: 3189291-hd_1080_1920_25fps.mp4 (ID: d79dca21)
 2025-09-01 22:39:57,040 - INFO - 127.0.0.1 - - [01/Sep/2025 22:39:57] "POST /analyze HTTP/1.1" 200 -
+2025-09-02 01:48:45,198 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.208:5000
+2025-09-02 01:48:45,198 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-02 01:48:45,296 - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-02 01:48:56,334 - WARNING -  * Debugger is active!
+2025-09-02 01:48:56,339 - INFO -  * Debugger PIN: 925-012-930
+2025-09-02 01:49:24,296 - INFO - Processing video: 3189291-hd_1080_1920_25fps.mp4 (ID: d79dca21)
+2025-09-02 01:49:27,681 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-09-02 01:49:27,698 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-09-02 01:49:29,960 - INFO - Analysis complete for: 3189291-hd_1080_1920_25fps.mp4 (ID: d79dca21)
+2025-09-02 01:49:29,988 - INFO - 127.0.0.1 - - [02/Sep/2025 01:49:29] "POST /analyze HTTP/1.1" 200 -
+2025-09-02 01:52:29,819 - INFO - 127.0.0.1 - - [02/Sep/2025 01:52:29] "GET /logs HTTP/1.1" 200 -
+2025-09-02 01:52:30,073 - INFO - 127.0.0.1 - - [02/Sep/2025 01:52:30] "GET /logs HTTP/1.1" 200 -
+2025-09-02 01:52:39,824 - INFO - 127.0.0.1 - - [02/Sep/2025 01:52:39] "GET /logs HTTP/1.1" 200 -
+2025-09-02 01:52:49,510 - INFO - 127.0.0.1 - - [02/Sep/2025 01:52:49] "GET /logs HTTP/1.1" 200 -
+2025-10-19 11:30:57,372 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-10-19 11:30:57,378 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 11:30:57,591 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 11:31:19,055 - WARNING -  * Debugger is active!
+2025-10-19 11:31:19,073 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 11:39:45,146 - INFO - Processing video: 3BHK_2025_HQ_PreDVD_720p_HD.mp4 (ID: f266a5b7)
+2025-10-19 11:41:18,272 - INFO - Processing video: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-10-19 11:41:25,287 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-10-19 11:41:25,310 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-10-19 11:41:28,355 - INFO - Analysis complete for: 3189292-hd_1080_1920_25fps.mp4 (ID: 9404e900)
+2025-10-19 11:41:28,413 - INFO - 127.0.0.1 - - [19/Oct/2025 11:41:28] "POST /analyze HTTP/1.1" 200 -
+2025-10-19 11:43:29,826 - INFO - 127.0.0.1 - - [19/Oct/2025 11:43:29] "[33mGET /logs HTTP/1.1[0m" 404 -
+2025-10-19 11:43:30,137 - INFO - 127.0.0.1 - - [19/Oct/2025 11:43:30] "[33mGET /logs HTTP/1.1[0m" 404 -
+2025-10-19 11:43:41,178 - INFO - 127.0.0.1 - - [19/Oct/2025 11:43:41] "[33mGET /logs HTTP/1.1[0m" 404 -
+2025-10-19 11:43:41,483 - INFO - 127.0.0.1 - - [19/Oct/2025 11:43:41] "[33mGET /logs HTTP/1.1[0m" 404 -
+2025-10-19 11:44:24,340 - ERROR - Error analyzing audio: [WinError 2] The system cannot find the file specified
+2025-10-19 11:44:24,345 - ERROR - Error extracting speech: [WinError 2] The system cannot find the file specified
+2025-10-19 11:44:24,930 - INFO - Analysis complete for: 3BHK_2025_HQ_PreDVD_720p_HD.mp4 (ID: f266a5b7)
+2025-10-19 11:44:24,937 - INFO - 127.0.0.1 - - [19/Oct/2025 11:44:24] "POST /analyze HTTP/1.1" 200 -
+2025-10-19 11:53:25,261 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\ml_backend_enhanced.py', reloading
+2025-10-19 11:53:25,276 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\ml_backend_enhanced.py', reloading
+2025-10-19 11:53:30,347 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 11:53:58,632 - WARNING -  * Debugger is active!
+2025-10-19 11:53:58,646 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 11:57:08,217 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\ml_backend_enhanced.py', reloading
+2025-10-19 11:57:08,225 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\ml_backend_enhanced.py', reloading
+2025-10-19 11:57:11,497 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 11:58:20,605 - WARNING -  * Debugger is active!
+2025-10-19 11:58:20,612 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 12:11:30,512 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\sentiment-analyzer-frontend\\node_modules\\es-iterator-helpers\\Iterator.zip', reloading
+2025-10-19 12:11:34,553 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 12:11:54,511 - WARNING -  * Debugger is active!
+2025-10-19 12:11:54,518 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 12:11:55,005 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\rlcompleter.py', reloading
+2025-10-19 12:11:55,160 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\idlelib\\tree.py', reloading
+2025-10-19 12:11:55,217 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages\\pip\\_vendor\\rich\\palette.py', reloading
+2025-10-19 12:11:56,921 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 12:12:09,972 - WARNING -  * Debugger is active!
+2025-10-19 12:12:09,977 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 12:12:10,265 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\_aix_support.py', reloading
+2025-10-19 12:12:10,355 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages\\pip\\_vendor\\urllib3\\_version.py', reloading
+2025-10-19 12:12:10,882 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\curses\\__init__.py', reloading
+2025-10-19 12:12:10,922 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages\\pip\\_internal\\models\\direct_url.py', reloading
+2025-10-19 12:12:10,947 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py', reloading
+2025-10-19 12:12:11,014 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages\\pip\\_vendor\\rich\\theme.py', reloading
+2025-10-19 12:12:11,040 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\lib2to3\\pytree.py', reloading
+2025-10-19 12:12:12,080 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 12:12:25,356 - WARNING -  * Debugger is active!
+2025-10-19 12:12:25,361 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 12:36:29,617 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\ml_backend.py', reloading
+2025-10-19 12:36:32,068 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 12:36:44,926 - WARNING -  * Debugger is active!
+2025-10-19 12:36:44,931 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 12:36:59,218 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\setup.py', reloading
+2025-10-19 12:37:00,953 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 12:37:15,030 - WARNING -  * Debugger is active!
+2025-10-19 12:37:15,036 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 12:48:17,242 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\training\\train.py', reloading
+2025-10-19 12:48:17,270 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\training\\test_logging.py', reloading
+2025-10-19 12:48:17,272 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\training\\models.py', reloading
+2025-10-19 12:48:17,274 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\training\\meld_dataset.py', reloading
+2025-10-19 12:48:17,276 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\training\\install_ffmpeg.py', reloading
+2025-10-19 12:48:17,289 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\training\\count_parameters.py', reloading
+2025-10-19 12:48:20,729 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 12:48:34,871 - WARNING -  * Debugger is active!
+2025-10-19 12:48:34,876 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 13:04:44,187 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\ml_backend_enhanced.py', reloading
+2025-10-19 13:04:48,004 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 13:05:01,159 - WARNING -  * Debugger is active!
+2025-10-19 13:05:01,165 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 13:05:35,463 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\start_network.py', reloading
+2025-10-19 13:05:37,516 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 13:05:51,551 - WARNING -  * Debugger is active!
+2025-10-19 13:05:51,552 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 13:14:04,791 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\train_sagemaker.py', reloading
+2025-10-19 13:14:04,801 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\deployment\\models.py', reloading
+2025-10-19 13:14:04,801 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\deployment\\inference.py', reloading
+2025-10-19 13:14:04,802 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\deployment\\deploy_endpoint.py', reloading
+2025-10-19 13:14:06,943 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 13:14:19,023 - WARNING -  * Debugger is active!
+2025-10-19 13:14:19,036 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 13:29:19,497 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\start_network.py', reloading
+2025-10-19 13:29:24,339 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 13:29:37,794 - WARNING -  * Debugger is active!
+2025-10-19 13:29:37,805 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 13:33:27,016 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\ml_backend.py', reloading
+2025-10-19 13:33:27,032 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\ml_backend.py', reloading
+2025-10-19 13:33:27,050 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\ml_backend.py', reloading
+2025-10-19 13:33:30,300 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 13:33:42,227 - WARNING -  * Debugger is active!
+2025-10-19 13:33:42,232 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 13:35:24,561 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\ml_backend_enhanced.py', reloading
+2025-10-19 13:35:24,596 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\ml_backend_enhanced.py', reloading
+2025-10-19 13:35:26,716 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 13:35:42,958 - WARNING -  * Debugger is active!
+2025-10-19 13:35:42,973 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 13:36:17,726 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\start_local.py', reloading
+2025-10-19 13:36:18,052 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\start_local.py', reloading
+2025-10-19 13:36:18,066 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\start_local.py', reloading
+2025-10-19 13:36:27,614 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 13:36:39,033 - WARNING -  * Debugger is active!
+2025-10-19 13:36:39,042 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 13:36:54,871 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\ml_backend_enhanced.py', reloading
+2025-10-19 13:36:54,871 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\ml_backend_enhanced.py', reloading
+2025-10-19 13:37:02,076 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 13:37:13,083 - WARNING -  * Debugger is active!
+2025-10-19 13:37:13,086 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 13:39:43,033 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\__init__.py', reloading
+2025-10-19 13:39:45,171 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 13:39:56,025 - WARNING -  * Debugger is active!
+2025-10-19 13:39:56,040 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 13:44:12,450 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\__init__.py', reloading
+2025-10-19 13:44:14,084 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 13:44:25,739 - WARNING -  * Debugger is active!
+2025-10-19 13:44:25,752 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 13:46:46,572 - INFO - 127.0.0.1 - - [19/Oct/2025 13:46:46] "[33mGET / HTTP/1.1[0m" 404 -
+2025-10-19 13:46:48,554 - INFO - 127.0.0.1 - - [19/Oct/2025 13:46:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-19 13:54:05,876 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\training\\meld_dataset.py', reloading
+2025-10-19 13:54:05,896 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\training\\models.py', reloading
+2025-10-19 13:54:05,896 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\training\\count_parameters.py', reloading
+2025-10-19 13:54:10,511 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 13:54:30,234 - WARNING -  * Debugger is active!
+2025-10-19 13:54:30,240 - INFO -  * Debugger PIN: 116-292-545
+2025-10-19 13:56:17,709 - INFO -  * Detected change in 'C:\\Users\\vijai\\Desktop\\Predictive Project\\training\\test_logging.py', reloading
+2025-10-19 13:56:20,125 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-19 13:56:45,781 - WARNING -  * Debugger is active!
+2025-10-19 13:56:45,793 - INFO -  * Debugger PIN: 116-292-545

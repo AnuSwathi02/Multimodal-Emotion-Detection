@@ -3,6 +3,7 @@
 import { useState, useRef } from "react";
 import type { Analysis } from "./Inference";
 import VideoPlayer from "./VideoPlayer";
+import { getApiUrl } from "~/lib/config";
 
 interface UploadVideoProps {
   apiKey: string;
@@ -42,7 +43,7 @@ export default function UploadVideo({ apiKey, onAnalysis }: UploadVideoProps) {
       setAnalysisProgress("Extracting video frames and analyzing visual content...");
 
       // Call local Python ML backend
-      const response = await fetch('http://localhost:5000/analyze', {
+      const response = await fetch(getApiUrl('/analyze'), {
         method: 'POST',
         body: formData,
       });

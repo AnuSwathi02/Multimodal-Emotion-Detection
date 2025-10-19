@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { FiRefreshCw, FiDownload, FiTrash2, FiSearch, FiFilter, FiFileText } from "react-icons/fi";
+import { getApiUrl } from "~/lib/config";
 
 interface LogEntry {
   timestamp: string;
@@ -20,7 +21,7 @@ export default function LogViewer() {
   // Fetch real logs from ML backend
   const fetchLogs = async () => {
     try {
-      const response = await fetch('http://localhost:5000/logs');
+      const response = await fetch(getApiUrl('/logs'));
       if (response.ok) {
         const data = await response.json();
         if (data.logs) {

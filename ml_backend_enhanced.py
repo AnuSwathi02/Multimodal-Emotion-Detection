@@ -1,17 +1,22 @@
-from flask import Flask, request, jsonify
-from flask_cors import CORS
-from transformers import pipeline
-import cv2
-import librosa
-import numpy as np
-import os
-import tempfile
-from pydub import AudioSegment
-import speech_recognition as sr
-from datetime import datetime
-import hashlib
-import logging
-import random
+try:
+    from flask import Flask, request, jsonify
+    from flask_cors import CORS
+    from transformers import pipeline
+    import cv2
+    import librosa
+    import numpy as np
+    import os
+    import tempfile
+    from pydub import AudioSegment
+    import speech_recognition as sr
+    from datetime import datetime
+    import hashlib
+    import logging
+    import random
+except ImportError as e:
+    print(f"Missing dependency: {e}")
+    print("Please install required packages using: pip install -r requirements.txt")
+    exit(1)
 
 # Configure logging
 logging.basicConfig(
@@ -629,4 +634,5 @@ if __name__ == '__main__':
     print("📊 Multiple Emotions: Rich emotional analysis for each video")
     print("📝 Logging: All analysis logged to ml_analysis.log")
     print("🌐 Server will be available at: http://localhost:5000")
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    print("🔧 Health Check: http://localhost:5000/health")
+    app.run(host='127.0.0.1', port=5000, debug=True)
