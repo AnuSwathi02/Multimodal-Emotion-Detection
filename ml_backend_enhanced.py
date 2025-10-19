@@ -30,7 +30,13 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, origins=[
+    "http://localhost:3000",
+    "https://*.vercel.app",
+    "https://*.railway.app",
+    "https://*.onrender.com",
+    "https://*.herokuapp.com"
+])
 
 # Load pre-trained models
 print("Loading Enhanced ML models...")

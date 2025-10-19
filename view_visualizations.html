@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multimodal Emotion Recognition - Visualization Gallery</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 30px;
+        }
+        .section {
+            background: white;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .section h2 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .image-card {
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
+        .image-card:hover {
+            transform: translateY(-5px);
+        }
+        .image-card img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        .image-card .caption {
+            padding: 15px;
+            background: #f8f9fa;
+        }
+        .image-card .caption h3 {
+            margin: 0 0 10px 0;
+            color: #2c3e50;
+            font-size: 16px;
+        }
+        .image-card .caption p {
+            margin: 0;
+            color: #666;
+            font-size: 14px;
+            line-height: 1.4;
+        }
+        .summary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        .summary h2 {
+            color: white;
+            border-bottom: 2px solid rgba(255,255,255,0.3);
+        }
+        .summary ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .summary li {
+            padding: 5px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        .summary li:before {
+            content: "✓ ";
+            color: #4CAF50;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎯 Multimodal Emotion Recognition - Visualization Gallery</h1>
+        
+        <div class="summary">
+            <h2>📊 Generated Visualizations Summary</h2>
+            <ul>
+                <li><strong>20 High-Quality Plots</strong> - All publication-ready at 300 DPI</li>
+                <li><strong>Confusion Matrices</strong> - For RAVDESS, IEMOCAP, and MELD datasets</li>
+                <li><strong>Performance Analysis</strong> - Overall metrics and SOTA comparisons</li>
+                <li><strong>Ablation Studies</strong> - Modality, architecture, and fusion analysis</li>
+                <li><strong>Per-Emotion Analysis</strong> - Detailed emotion-specific performance</li>
+                <li><strong>Computational Analysis</strong> - Efficiency and robustness studies</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>🎭 Confusion Matrices</h2>
+            <div class="gallery">
+                <div class="image-card">
+                    <img src="figures/ravdess_confusion_matrix.png" alt="RAVDESS Confusion Matrix">
+                    <div class="caption">
+                        <h3>RAVDESS Confusion Matrix</h3>
+                        <p>8 emotion categories showing classification performance. Angry emotion achieves highest recognition (94.9% F1).</p>
+                    </div>
+                </div>
+                <div class="image-card">
+                    <img src="figures/iemocap_confusion_matrix.png" alt="IEMOCAP Confusion Matrix">
+                    <div class="caption">
+                        <h3>IEMOCAP Confusion Matrix</h3>
+                        <p>4 emotion categories in conversational context. Angry emotion performs best (90.0% F1).</p>
+                    </div>
+                </div>
+                <div class="image-card">
+                    <img src="figures/meld_confusion_matrix.png" alt="MELD Confusion Matrix">
+                    <div class="caption">
+                        <h3>MELD Confusion Matrix</h3>
+                        <p>7 emotion categories from TV dialogues. Joy emotion performs best (87.3% F1).</p>
+                    </div>
+                </div>
+                <div class="image-card">
+                    <img src="figures/enhanced_ravdess_confusion_matrix.png" alt="Enhanced RAVDESS Confusion Matrix">
+                    <div class="caption">
+                        <h3>Enhanced RAVDESS Confusion Matrix</h3>
+                        <p>High-quality version with detailed annotations and performance metrics.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>📈 Performance Analysis</h2>
+            <div class="gallery">
+                <div class="image-card">
+                    <img src="figures/table1_overall_performance.png" alt="Overall Performance">
+                    <div class="caption">
+                        <h3>Overall Performance Across Datasets</h3>
+                        <p>RAVDESS achieves highest performance (92.3% accuracy), followed by IEMOCAP (87.6%) and MELD (85.4%).</p>
+                    </div>
+                </div>
+                <div class="image-card">
+                    <img src="figures/table2_sota_iemocap.png" alt="SOTA Comparison">
+                    <div class="caption">
+                        <h3>SOTA Comparison on IEMOCAP</h3>
+                        <p>Our method outperforms all baselines with 87.6% accuracy vs 86.1% for previous best (AVT-CA).</p>
+                    </div>
+                </div>
+                <div class="image-card">
+                    <img src="figures/performance_radar.png" alt="Performance Radar">
+                    <div class="caption">
+                        <h3>Performance Radar Chart</h3>
+                        <p>Multi-dimensional comparison of performance across datasets using radar visualization.</p>
+                    </div>
+                </div>
+                <div class="image-card">
+                    <img src="figures/performance_trend_analysis.png" alt="Performance Trend Analysis">
+                    <div class="caption">
+                        <h3>Performance Trend Analysis</h3>
+                        <p>Comprehensive 4-panel analysis showing performance patterns across metrics and datasets.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>🔬 Ablation Studies</h2>
+            <div class="gallery">
+                <div class="image-card">
+                    <img src="figures/table3_ablation_modalities.png" alt="Modality Ablation">
+                    <div class="caption">
+                        <h3>Modality Contribution Analysis</h3>
+                        <p>Text modality provides strongest individual performance (75.4%), multimodal fusion yields 12.2% improvement.</p>
+                    </div>
+                </div>
+                <div class="image-card">
+                    <img src="figures/modality_contribution_heatmap.png" alt="Modality Heatmap">
+                    <div class="caption">
+                        <h3>Modality Contribution Heatmap</h3>
+                        <p>Heatmap visualization showing Audio+Text combination performs better than other bimodal pairs.</p>
+                    </div>
+                </div>
+                <div class="image-card">
+                    <img src="figures/table4_fusion_strategies.png" alt="Fusion Strategies">
+                    <div class="caption">
+                        <h3>Fusion Strategy Analysis</h3>
+                        <p>Hierarchical fusion achieves best performance (87.6%) with 2.5% improvement over attention-only.</p>
+                    </div>
+                </div>
+                <div class="image-card">
+                    <img src="figures/table5_arch_components.png" alt="Architecture Components">
+                    <div class="caption">
+                        <h3>Architecture Component Analysis</h3>
+                        <p>Cross-modal attention provides largest individual contribution (2.3% improvement).</p>
+                    </div>
+                </div>
+                <div class="image-card">
+                    <img src="figures/comprehensive_ablation_study.png" alt="Comprehensive Ablation">
+                    <div class="caption">
+                        <h3>Comprehensive Ablation Study</h3>
+                        <p>Combined view of all ablation studies showing systematic analysis of contributions.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>😊 Per-Emotion Analysis</h2>
+            <div class="gallery">
+                <div class="image-card">
+                    <img src="figures/table6_per_emotion_ravdess.png" alt="RAVDESS Per-Emotion">
+                    <div class="caption">
+                        <h3>RAVDESS Per-Emotion Performance</h3>
+                        <p>All emotions achieve >88% F1-score, with angry emotion leading at 94.9%.</p>
+                    </div>
+                </div>
+                <div class="image-card">
+                    <img src="figures/table7_per_emotion_iemocap.png" alt="IEMOCAP Per-Emotion">
+                    <div class="caption">
+                        <h3>IEMOCAP Per-Emotion Performance</h3>
+                        <p>Angry emotion performs best (90.0% F1), happy emotion needs improvement (84.0% F1).</p>
+                    </div>
+                </div>
+                <div class="image-card">
+                    <img src="figures/emotion_performance_comparison.png" alt="Emotion Comparison">
+                    <div class="caption">
+                        <h3>Emotion Performance Comparison</h3>
+                        <p>Side-by-side comparison showing RAVDESS has more consistent performance across emotions.</p>
+                    </div>
+                </div>
+                <div class="image-card">
+                    <img src="figures/detailed_emotion_analysis.png" alt="Detailed Emotion Analysis">
+                    <div class="caption">
+                        <h3>Detailed Emotion Analysis</h3>
+                        <p>Comprehensive analysis with precision, recall, F1, and support metrics.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>⚡ Computational Analysis</h2>
+            <div class="gallery">
+                <div class="image-card">
+                    <img src="figures/table8_efficiency.png" alt="Computational Efficiency">
+                    <div class="caption">
+                        <h3>Computational Efficiency</h3>
+                        <p>Our method has more parameters but maintains competitive inference time (<100ms).</p>
+                    </div>
+                </div>
+                <div class="image-card">
+                    <img src="figures/computational_analysis_comprehensive.png" alt="Computational Analysis">
+                    <div class="caption">
+                        <h3>Computational Analysis Comprehensive</h3>
+                        <p>Multi-dimensional analysis of computational efficiency and performance trade-offs.</p>
+                    </div>
+                </div>
+                <div class="image-card">
+                    <img src="figures/table9_robustness.png" alt="Robustness Analysis">
+                    <div class="caption">
+                        <h3>Missing Modality Robustness</h3>
+                        <p>System maintains >79% accuracy even with one modality missing, showing graceful degradation.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>📋 Usage Instructions</h2>
+            <div style="background: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 4px solid #3498db;">
+                <h3>For Paper Figures:</h3>
+                <ul>
+                    <li>Use <code>table1_overall_performance.png</code> for main results table</li>
+                    <li>Use <code>table2_sota_iemocap.png</code> for SOTA comparison</li>
+                    <li>Use confusion matrices for detailed classification analysis</li>
+                    <li>Use ablation study plots for methodology validation</li>
+                </ul>
+                
+                <h3>For Presentations:</h3>
+                <ul>
+                    <li>Use <code>performance_radar.png</code> for overview slides</li>
+                    <li>Use <code>comprehensive_ablation_study.png</code> for methodology explanation</li>
+                    <li>Use <code>computational_analysis_comprehensive.png</code> for efficiency discussion</li>
+                </ul>
+                
+                <h3>For Supplementary Material:</h3>
+                <ul>
+                    <li>Use <code>detailed_emotion_analysis.png</code> for per-emotion breakdown</li>
+                    <li>Use <code>performance_trend_analysis.png</code> for comprehensive analysis</li>
+                    <li>Use enhanced confusion matrices for detailed classification patterns</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

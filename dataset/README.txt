@@ -4,18 +4,6 @@ MELD: Multimodal EmotionLines Dataset for Emotion Recognition in Multiparty Conv
                          			                               
 Version 1.0
 
-September 30th, 2018
-                                
-Soujanya Poria‡, Devamanyu HazarikaΦ, Navonil Majumder†, Gautam Naik‡, Erik Cambria‡, Rada Mihalcea*
-‡School of Computer Science and Engineering, Nanyang Technological Univerisity, Singapore
-†Centro de Investigacion en Computacion, Instituto Politecnico Nacional, Mexico ´
-ΦSchool of Computing, National University of Singapore, Singapore
-*Computer Science & Engineering, University of Michigan, Ann Arbor, USA
-
-sporia@ntu.edu.sg, hazarika@comp.nus.edu.sg, navo@nlp.cic.ipn.mx,
-gautam@sentic.net, cambria@ntu.edu.sg, mihalcea@umich.edu
-									
-
 CONTENTS
 1. Introduction
 2. Purpose
@@ -23,15 +11,11 @@ CONTENTS
 4. Paper
 5. Raw Data
 6. Description of the .csv files
-7. Citation
-
 
 =======================
 1. Introduction
 
 Multimodal EmotionLines Dataset (MELD) has been created by enhancing and extending EmotionLines dataset. MELD contains the same dialogue instances available in EmotionLines, but it also encompasses audio and visual modality along with text. MELD has more than 1300 dialogues and 13000 utterances from Friends TV series. Multiple speakers participated in the dialogues. Each utterance in a dialogue has been labeled by any of these seven emotions -- Anger, Disgust, Sadness, Joy, Neutral, Surprise and Fear. MELD also has sentiment (positive, negative and neutral) annotation for each utterance.
-
-Please visit https://affective-meld.github.io for more details.
 
 =======================
 2. Purpose
@@ -90,12 +74,5 @@ The files
 - dev_sent_emo.csv - contains the utterances in the dev set along with Sentiment and Emotion labels.
 - test_sent_emo.csv - contains the utterances in the test set along with Sentiment and Emotion labels.
 
-=======================
-7. Citation
 
-Please cite the following papers if you find this dataset useful in your research
-
-S. Poria, D. Hazarika, N. Majumder, G. Naik, E. Cambria, R. Mihalcea. Multimodal EmotionLines: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversation. (2018)
-
-Chen, S.Y., Hsu, C.C., Kuo, C.C. and Ku, L.W. EmotionLines: An Emotion Corpus of Multi-Party Conversations. arXiv preprint arXiv:1802.08379 (2018).
 
